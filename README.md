@@ -2,6 +2,12 @@
 
 This package contains everything you need to self-host the Albion Online Build Generator using Docker.
 
+This was 99% coded with Claude :D So yeah, might not be accurate and have lots of broken stuff. Feel free to submit a PR to fix anything.
+
+Like what you see? Consider using my referral link - https://albiononline.com/ref/EN5QKEN9TH
+
+Enjoy!
+
 ## 📁 File Structure
 
 ```
