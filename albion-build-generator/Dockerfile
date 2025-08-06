@@ -3,6 +3,7 @@ FROM nginx:alpine
 
 # Copy the HTML file to nginx web directory
 COPY index.html /usr/share/nginx/html/
+COPY  images /usr/share/nginx/html/images/
 
 # Copy custom nginx configuration
 COPY nginx.conf /etc/nginx/nginx.conf
